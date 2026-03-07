@@ -6,7 +6,7 @@
 This project focuses on the **early detection of Diabetic Retinopathy
 (DR)** from retinal fundus images using a **Convolutional Neural
 Network (CNN)**.
-The model classifies images into *five severity levels*:
+The model classifies images into five severity levels:
 
 * 0 → No DR
 * 1 → Mild
@@ -67,7 +67,7 @@ The model performance was evaluated using:
 
 ---
 
-## 🌐 Deployment
+##  Deployment
 
 A *Streamlit web application* was developed for real-time prediction.
 
@@ -80,7 +80,7 @@ Ngrok was used to generate a *public URL* for demonstration.
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 
 diabetic-retinopathy-cnn/
@@ -93,18 +93,20 @@ diabetic-retinopathy-cnn/
 
 ---
 
-## 🚀 How to Run the Project
+##  How to Run the Project
 
-### 1️⃣ Install Dependencies
+### 1️ Install Dependencies
 
 bash
 pip install -r requirements.txt
 
 
-### 2️⃣ Run Streamlit App
+### 2️ Run Streamlit App
 
 bash
 streamlit run app.py
+
+This project helps in gaining hands on experience with deep learning models mainly used Convolutional neural network model is used this project for automated diabetic retinopathy detection using fundus images. It focuses on analyzing retinal images to identify early signs of the disease and improve diagnosis accuracy.
 
 
 ---
@@ -130,7 +132,7 @@ streamlit run app.py
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 *Rongali Prasanna*
 B.Tech – Computer Science Engineering (CSE)
